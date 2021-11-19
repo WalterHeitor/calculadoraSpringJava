@@ -1,4 +1,4 @@
-package br.com.softwalter.calculadora;
+package br.com.softwalter.comercio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

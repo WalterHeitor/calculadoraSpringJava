@@ -1,4 +1,4 @@
-package br.com.softwalter.calculadora.infrastructure.http.dto;
+package br.com.softwalter.comercio.infrastructure.http.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.*;
